@@ -1,0 +1,75 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/sql.png",
+      "title": "SQL",
+      "description": "Proficient in writing efficient queries, designing databases, and managing relational database systems."
+    },
+    {
+      "id": "2",
+      "src": "./img/python.png",
+      "title": "Python, Django",
+      "description": "Experienced in building robust applications with Python and developing web applications using Django framework."
+    },
+    {
+      "id": "3",
+      "src": "./img/c.png",
+      "title": "C, C++",
+      "description": "Skilled in system-level programming, object-oriented design, and performance optimization using C and C++."
+    },
+    {
+      "id": "4",
+      "src": "./img/oop.png",
+      "title": "OOPs",
+      "description": "Strong understanding of Object-Oriented Programming principles like inheritance, polymorphism, encapsulation, and abstraction."
+    },
+    {
+      "id": "5",
+      "src": "./img/dsa.png",
+      "title": "DSA",
+      "description": "Deep knowledge of Data Structures and Algorithms for solving complex computational problems efficiently."
+    },
+    {
+      "id": "6",
+      "src": "./img/cnn.png",
+      "title": "CNNs",
+      "description": "Basic and fundamental knowledge of computer networks and internet."
+    },
+    {
+      "id": "7",
+      "src": "./img/nodejs.png",
+      "title": "Node.js",
+      "description": "Experienced in building scalable backend applications, RESTful APIs, and real-time systems with Node.js."
+    },
+    {
+      "id": "8",
+      "src": "./img/reactjs.png",
+      "title": "React.js",
+      "description": "Proficient in creating dynamic and interactive front-end applications using React.js and modern JavaScript frameworks."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/p1.png",
+      "title": "E-commerce Website",
+      "description": "Developed a fully functional e-commerce website using Django (backend) and jQuery, JavaScript, CSS, and HTML (frontend), featuring a product catalog, shopping cart, and checkout. Managed products, users, and orders with Django's default SQLite database.",
+      "link": "https://e-c-final.vercel.app/"
+    },
+    {
+      "id": "2",
+      "src": "./img/p2.png",
+      "title": "Memory Game",
+      "description": "Created an online memory card-matching game using HTML, CSS, and JavaScript, featuring smooth card flip animations, score tracking, and an engaging user interface. Optimized for browser performance with a live playable version.",
+      "link": "https://memory-game-djnr.vercel.app/"
+    },
+    {
+      "id": "3",
+      "src": "./img/p4.png",
+      "title": "Weather Site",
+      "description": "Built a weather app using HTML, CSS, JavaScript, and Node.js, featuring real-time weather data retrieval via an external API, a user-friendly search interface, and deployment on GitHub for public access.",
+      "link": "https://weather-site-ochre.vercel.app/"
+    }
+  ]
+}
