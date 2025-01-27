@@ -54,7 +54,7 @@
       "id": "1",
       "src": "./img/p1.png",
       "title": "E-commerce Website",
-      "description": "Developed a fully functional e-commerce website using Django (backend) and jQuery, JavaScript, CSS, and HTML (frontend), featuring a product catalog, shopping cart, and checkout. Managed products, users, and orders with Django's default SQLite database.",
+      "description": "Developed a e-commerce website using Django and jQuery, JavaScript, CSS, and HTML, featuring a product catalog, shopping cart, and checkout. Managed products, users, and orders with Django's default SQLite database.",
       "link": "https://e-c-final.vercel.app/"
     },
     {
