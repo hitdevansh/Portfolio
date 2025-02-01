@@ -842,4 +842,7 @@ input[type="checkbox"] {
     margin-right: 5vw;
 
   }
+  body {
+    overflow-x: hidden;
+  }
 }
