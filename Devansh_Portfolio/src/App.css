@@ -157,12 +157,12 @@ h2 {
 }
 /* Section Titles Ends */
 
-/* Navbar Style Start */
+/* upar Style Start */
 .navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 15px 85.333px;
+  padding: 15px ;
   background: var(--white);
   box-shadow: 0px 5.333px 80px 0 rgba(0, 0, 0, 0.1);
   position: fixed;
@@ -555,12 +555,6 @@ input[type="checkbox"] {
   flex-shrink: 0;
   text-decoration: none;
 }
-.divider {
-  margin: 106px 0 42.67px;
-  height: 1.333px;
-  width: 100%;
-  background: rgba(40, 41, 56, 0.55);
-}
 .footer--content--container {
   display: flex;
   justify-content: space-between;
@@ -681,9 +675,7 @@ input[type="checkbox"] {
     padding: 0;
     align-items: center;
   }
-  .divider {
-    margin: 20px;
-  }
+  
 }
 
 /* Hamburger menu  */
@@ -839,10 +831,11 @@ input[type="checkbox"] {
     align-items: center;
     justify-content: center;
     justify-items: center;
-    margin-right: 5vw;
+    /* margin-right: 5vw; */
 
   }
-  body {
+
+  body{
     overflow-x: hidden;
   }
 }
