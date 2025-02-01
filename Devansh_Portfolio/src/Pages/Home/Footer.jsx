@@ -5,9 +5,9 @@ function Footer() {
   return (
     <footer className="footer--container">
       <div className="footer--link--container">
-        <div>
+{/*         <div>
           <img src="./img/logo-devansh-light.gif" alt="Logoipsum" />
-        </div>
+        </div> */}
         <div className="footer--items">
           <ul>
             <li>
