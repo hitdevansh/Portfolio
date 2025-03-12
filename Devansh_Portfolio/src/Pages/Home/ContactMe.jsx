@@ -204,10 +204,7 @@ export default function ContactMe() {
             required
           />
         </label>
-        <label htmlFor="checkbox" className="checkbox--label">
-          <input type="checkbox" required name="checkbox" id="checkbox" />
-          <span className="text-sm">I accept the terms</span>
-        </label>
+    
         <div>
           <button type="submit" className="btn btn-primary contact--form--btn">
             Submit
