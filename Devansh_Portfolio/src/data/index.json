@@ -55,7 +55,7 @@
       "src": "./img/p1.png",
       "title": "E-commerce Website",
       "description": "Developed a e-commerce website using Django and jQuery, JavaScript, CSS, and HTML, featuring a product catalog, shopping cart, and checkout. Managed products, users, and orders with Django's default SQLite database.",
-      "link": "https://e-c-final.vercel.app/"
+      "link": "https://github.com/hitdevansh/e-commerce-r"
     },
     {
       "id": "2",
