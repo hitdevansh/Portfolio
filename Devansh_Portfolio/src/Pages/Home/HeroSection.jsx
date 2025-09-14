@@ -1,5 +1,5 @@
 function getresume(){
-  window.open("https://drive.google.com/file/d/1o-fiyYc32EiWKTKuHS6KZQEuVLP2QY67/view?usp=sharing/", "_blank");
+  window.open("https://drive.google.com/file/d/1I4cQOUzUt6wnF9nVwvPwhDnKTz7JoRQJ/", "_blank");
 }
 
 export default function HeroSection() {
