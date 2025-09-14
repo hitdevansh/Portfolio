@@ -21,7 +21,7 @@ export default function HeroSection() {
         <button className="btn btn-primary" onClick={getresume}>Explore My CV</button>
       </div>
       <div className="hero--section--img">
-        <img src="./img/sp1.jpg" alt="Hero Section" />
+        <img src="./img/about-me-3.jpg" alt="Hero Section" />
       </div>
     </section>
   );
